@@ -1,0 +1,17 @@
+.sa{
+	color: white !important;
+margin-bottom: 2px;
+}
+.ma{
+	color: white !important;
+}
+.ma:hover{
+	text-decoration: none;
+}
+.ml{
+	float: left;
+margin-left: 16%;
+margin-top: 2%;
+background-color: #17a2b8;
+
+}
